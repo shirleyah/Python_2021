@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	
+	Diana	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
