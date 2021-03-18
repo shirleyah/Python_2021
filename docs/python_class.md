@@ -240,3 +240,50 @@ Como modificar el mensaje de un comió en particular
 1. identificar el commit  donde actualizaremos el mensaje
 
    `git log --oneline`
+
+## Sesión 3
+
+gitignore Para controlar y poner las reglas del repositorio
+
+```
+#Escribir un archivo oculto llamado .gitignore
+
+```
+
+```
+git status --ignored -u # ver la lista de archivos que estamos ignorando
+```
+
+ignorar todos los archivos de una extención (*.data), excepto uno (final.data)
+
+```
+*.data
+!final.data
+```
+
+Conectar el repositorio local con web
+
+```
+git remote add origin
+```
+
+Sincronizarlos
+
+```
+git remote -v
+```
+
+Todo lo que vive en master local, llevatelo a web
+
+```
+git push origin master
+
+#Pide usuario y contraseña
+```
+
+Ahora del web actualizarlo a local
+
+```
+git pull origin master
+```
+
