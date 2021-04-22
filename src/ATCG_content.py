@@ -5,6 +5,7 @@ VERSION
         [0.1]
 AUTHOR
         Diana H. Oaxaca <hoaxacadiana@gmail.com>
+        Github repository: https://github.com/DianaOaxaca/Python_2021/blob/master/src/ATCG_content.py
 DESCRIPTION
         Program that asks the user for a DNA sequence and returns the contents of each nucleotide.
 CATEGORY
