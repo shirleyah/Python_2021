@@ -27,7 +27,7 @@ EXAMPLE
 	[input: MSRSLLLRFLLFLLLLPPLP]
 	[output: The percentage of hydrophilic aminoacids in your protein is: 65.0 ]
 GITHUB LINK
-	
+	https://github.com/DianaOaxaca/Python_2021/blob/master/src/get_hydrophilic_aminoacids.py
 '''
 #Obtain percentage of aminoacids from protein sequence
 def get_aa_content(protein, aminoacids):
