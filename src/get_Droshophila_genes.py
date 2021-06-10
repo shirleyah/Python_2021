@@ -41,6 +41,7 @@ EXAMPLE
 	The genes with medium AT content is: teg436]
 	
 GITHUB LINK
+	https://github.com/DianaOaxaca/Python_2021/blob/master/src/get_Droshophila_genes.py
 	
 '''
 
