@@ -28,7 +28,7 @@ EXAMPLE
 	The AT rich regions are: ATTATAT
     The AT rich regions are: AAATTATA
 GITHUB LINK
-	
+	https://github.com/DianaOaxaca/Python_2021/blob/master/src/at_rich_regions.py
 '''
 
 import re
