@@ -5,13 +5,13 @@ VERSION
         1.0
 
 AUTHOR
-        
+	DianaOaxaca        
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
 
 CATEGORY
-        Genomic sequence
+        Genomic sequence type
 
 USAGE
 
@@ -19,7 +19,7 @@ USAGE
     
     example
     
-    % python AT-percentage.py -i sequence.txt
+    python AT-percentage.py -i sequence.txt
         
 '''
 
