@@ -2,3 +2,4 @@ gcacgactactcgtcatcatcattcg
 gcacgactactcgtcatcatcattcg
 gactacgatcatta
 atgcacttacg
+agtc
