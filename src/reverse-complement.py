@@ -6,7 +6,7 @@ VERSION
     	0.0.2
     
 AUTHOR
-	Diana	
+	Diana Oaxaca
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
