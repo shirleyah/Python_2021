@@ -11,3 +11,9 @@ Se organiza de la siguiente manera:
 
 `templates` plantilla de encabezado
 
+Comandos de git:
+
+git tag [tag_name] -m "mensaje" -> crear etiquetas
+git branch [branche_name] -> crear ramas
+pull request -> Enviar propuestas de cambios
+
